@@ -2,13 +2,13 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=berkebsrn&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-</div>
+<img align="right" height="150" src="https://i.pinimg.com/originals/f9/f0/8a/f9f08ae5579ea492dfe33eacbceaebaa.gif"  />
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/f9/f0/8a/f9f08ae5579ea492dfe33eacbceaebaa.gif"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=berkebsrn&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+</div>
 
 ###
 
