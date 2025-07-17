@@ -1,37 +1,56 @@
-<h2 align="left">Hi 👋! My name is Berke and I'm a Backend Developer, from Turkey</h2>
+# 👋 Hi, I'm Berke Başaran
 
-###
+🎓 14-year-old high school student passionate about **mathematics**, **artificial intelligence**, and **software development**. I love solving complex problems and building smart systems, especially in areas like image processing, mathematical modeling, and simulation-based tools.
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+---
 
-###
+## 📌 About Me
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-</div>
+- 🏫 Currently studying at **Mehmet Çelikel High School** (Zonguldak, Turkey)
+- 🧠 Enjoy challenging myself in coding competitions and math-based projects
+- 💡 Always exploring new ideas at the intersection of AI and applied mathematics
 
-###
+---
 
-<div align="left">
-  <a href="https://www.instagram.com/berkebsrn30/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-</div>
+## 🏆 Highlights & Achievements
 
-###
+### 🔹 Multivariate Functional Regression Equation Generator
+- 🥇 **Regional Winner** & **National Finalist** — TÜBİTAK 2204-A High School Research Projects Contest
+- 📊 Developed advanced regression algorithms to generate symbolic functional models  
+- 💻 Applied mathematical analysis and optimization techniques to real-world data
+
+### 🔹 Electric Vehicle Development Simulator
+- 🥉 **3rd Place** — 7th International R&D Project Market
+- 🔧 Designed a simulation system integrating electric vehicle dynamics and control logic
+- 💻 Built in Python with a focus on system behavior and real-time interaction
+
+---
+
+## 🛠️ Technical Skills
+
+- **Languages:** Python, C++
+- **Domains:** Image Processing, AI/ML, Mathematical Modeling
+- **Tools:** Git, Jupyter, OpenCV, Matplotlib, NumPy, SciPy
+- **Other:** Competitive Programming (HackerRank, Topcoder), Algorithms & Data Structures
+
+---
+
+## 🎯 Interests
+
+- 🧩 Competitive Programming & Algorithmic Thinking  
+- 🧠 Artificial Intelligence & Deep Learning  
+- 📐 Mathematical Research & Functional Analysis  
+- 🤖 Image Processing Projects with Real-World Impact
+
+---
+
+## 📫 Get in Touch
+
+- 📧 Email: [berkebsrn67@gmail.com](mailto:berkebsrn67@gmail.com)  
+- 📍 Location: Zonguldak, Turkey  
+- ☎️ Phone: +90 533 975 67 06 *(Preferred contact method)*
+
+---
+
+### 🧪 "Learning by building, thinking by solving — let's create something meaningful!"
+
