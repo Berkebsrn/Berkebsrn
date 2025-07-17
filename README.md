@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Berke Başaran
 
-🎓 14-year-old high school student passionate about **mathematics**, **artificial intelligence**, and **software development**. I love solving complex problems and building smart systems, especially in areas like image processing, mathematical modeling, and simulation-based tools.
+🎓 15-year-old high school student passionate about **mathematics**, **artificial intelligence**, and **software development**. I love solving complex problems and building smart systems, especially in areas like image processing, mathematical modeling, and simulation-based tools.
 
 ---
 
