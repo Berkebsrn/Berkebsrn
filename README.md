@@ -47,8 +47,7 @@
 ## 📫 Get in Touch
 
 - 📧 Email: [berkebsrn67@gmail.com](mailto:berkebsrn67@gmail.com)  
-- 📍 Location: Zonguldak, Turkey  
-- ☎️ Phone: +90 533 975 67 06 *(Preferred contact method)*
+- 📍 Location: Turkey  
 
 ---
 
