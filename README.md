@@ -1,55 +1,33 @@
-# 👋 Hi, I'm Berke Başaran
+<h2 align="left">Hi 👋, I'm Berke<br>A passionate backend developer from Turkey</h2>
 
-🎓 15-year-old high school student passionate about **mathematics**, **artificial intelligence**, and **software development**. I love solving complex problems and building smart systems, especially in areas like image processing, mathematical modeling, and simulation-based tools.
+###
 
----
+<img align="right" height="150" src="https://i.pinimg.com/originals/f9/f0/8a/f9f08ae5579ea492dfe33eacbceaebaa.gif"  />
 
-## 📌 About Me
+###
 
-- 🏫 Currently studying at **Mehmet Çelikel High School** (Zonguldak, Turkey)
-- 🧠 Enjoy challenging myself in coding competitions and math-based projects
-- 💡 Always exploring new ideas at the intersection of AI and applied mathematics
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
 
----
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="opencv logo"  />
+</div>
 
-## 🏆 Highlights & Achievements
+###
 
-### 🔹 Multivariate Functional Regression Equation Generator
-- 🥇 **Regional Winner** & **National Finalist** — TÜBİTAK 2204-A High School Research Projects Contest
-- 📊 Developed advanced regression algorithms to generate symbolic functional models  
-- 💻 Applied mathematical analysis and optimization techniques to real-world data
+<div align="left">
+  <a href="instagram.com/berkebsrn0" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://mail.google.com/mail/u/?authuser=berkebsrn67@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+</div>
 
-### 🔹 Electric Vehicle Development Simulator
-- 🥉 **3rd Place** — 7th International R&D Project Market
-- 🔧 Designed a simulation system integrating electric vehicle dynamics and control logic
-- 💻 Built in Python with a focus on system behavior and real-time interaction
+###
 
----
+<br clear="both">
 
-## 🛠️ Technical Skills
-
-- **Languages:** Python, C++
-- **Domains:** Image Processing, AI/ML, Mathematical Modeling
-- **Tools:** Git, Jupyter, OpenCV, Matplotlib, NumPy, SciPy
-- **Other:** Competitive Programming (HackerRank, Topcoder), Algorithms & Data Structures
-
----
-
-## 🎯 Interests
-
-- 🧩 Competitive Programming & Algorithmic Thinking  
-- 🧠 Artificial Intelligence & Deep Learning  
-- 📐 Mathematical Research & Functional Analysis  
-- 🤖 Image Processing Projects with Real-World Impact
-
----
-
-## 📫 Get in Touch
-
-- 📧 Email: [berkebsrn67@gmail.com](mailto:berkebsrn67@gmail.com)  
-- 📍 Location: Turkey  
-
----
-
-### 🧪 "Learning by building, thinking by solving — let's create something meaningful!"
-
+###
